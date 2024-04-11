@@ -1,0 +1,45 @@
+h1{ 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(23, 17, 2);
+    color: gold;
+}
+.links {
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+a{
+    color: goldenrod;
+}
+.links p {
+    display: inline-block;
+    margin-right: 10px;
+}
+iframe{
+    width: 498px; 
+    height: 280px; 
+    /* Width/height = 1.78 */
+}
+.mainstuff{
+    position: relative;
+    left:45%;
+}
+.imageleft{
+    position:absolute;
+    left:30px;
+    width: 550px;
+}
+.imageright{
+    position:absolute;
+    right:30px;
+    width: 550px;
+}
+.bigtext{
+    color:bisque;
+    font-size: x-large;
+    text-align: center;
+}
